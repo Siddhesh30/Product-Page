@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "Laptop",
+    "image": "https://images.pexels.com/photos/1006293/pexels-photo-1006293.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "Rating": "8",
+    "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+  },
+  {
+    "Name": "Mobile",
+    "image": "https://images.pexels.com/photos/1092644/pexels-photo-1092644.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "Rating": "7",
+    "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+  },
+  {
+    "Name": "Earphone",
+    "image": "https://images.pexels.com/photos/1649771/pexels-photo-1649771.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "Rating": "9",
+    "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+  },
+  {
+    "Name": "Smart Watch",
+    "image": "https://images.pexels.com/photos/437037/pexels-photo-437037.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "Rating": "7",
+    "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+  }
+]
